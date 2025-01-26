@@ -1,5 +1,5 @@
 
-```markdown
+
 # EduAssist
 
 EduAssist is an AI-powered chatbot designed for St. Clair College students and prospective applicants. It uses the Mistral 7B model to answer common questions about courses, locations, syllabus details, and more. This interactive chatbot provides accurate and quick responses to improve the user experience.
@@ -136,5 +136,3 @@ For questions or support, feel free to reach out:
 Special thanks to St. Clair College for inspiring this project and Mistral AI for the powerful open-source model.
 
 ``` 
-
-Feel free to customize the content based on your needs or update the placeholder links with actual resources. Let me know if you'd like any additional sections or edits!
