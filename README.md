@@ -1,5 +1,3 @@
-jibin
-
 # EduAssist
 
 EduAssist is an AI-powered chatbot designed for St. Clair College students and prospective applicants. It uses the Mistral 7B model to answer common questions about courses, locations, syllabus details, and more. This interactive chatbot provides accurate and quick responses to improve the user experience.
