@@ -1,6 +1,14 @@
 from flask import Flask, request, jsonify, render_template
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import pandas as pd
+from dotenv import load_dotenv
+import os
+
+# Load environment variables
+load_dotenv()
+
+model_name = os.getenv("MODEL_NAME", "mistralai/Mistral-7B")
+faq_dataset_path = os.getenv("FAQ_DATASET", "dataset/faq.csv")
 
 app = Flask(__name__)
 
